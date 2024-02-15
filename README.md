@@ -1,6 +1,6 @@
-### Hi there 👋
-
-
+### Hi, I'm Shawn Liang 👋
+- I'm a freshman at Case Western Reserve Univerisity
+- I love to play Baseball ⚾️
 <!--
 **shawn-liang27/shawn-liang27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
